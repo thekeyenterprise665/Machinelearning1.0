@@ -29,7 +29,7 @@ but rather to present the inner workings of them in a transparent and accessible
   * [Contact](#contact)
 
 ## Installation
-    $ git clone https://github.com/thekeyenterprise665/Machinelearning1.0
+    $ git clone https://github.com/eriklindernoren/ML-From-Scratch
     $ cd ML-From-Scratch
     $ python setup.py install
 
